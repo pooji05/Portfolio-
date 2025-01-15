@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  
+  header {
+    background:gray;
+    color: black;
+    padding: 1rem 0;
+    text-align: center;
+  }
+  
+  nav a {
+    color: black;
+    text-decoration: none;
+    margin: 0 15px;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  section {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  #about {
+    background: white;
+  }
+  
+  #skills ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #skills li {
+    display: inline-block;
+    margin: 0 10px;
+    background: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .project {
+    margin: 1rem 0;
+    border: 1px solid white;
+    padding: 1rem;
+    border-radius: 5px;
+    background: white;
+  }
+  
+  footer {
+    text-align: center;
+    background: gray;
+    color: white;
+    padding: 1rem 0;
+  }
+  
